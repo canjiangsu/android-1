@@ -482,21 +482,21 @@
   <project name="platform/packages/apps/CMFileManager" path="packages/apps/CMFileManager" revision="3b2075456663b60f109e1a21ec2f1f24152f28c9"/>
   <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="e960ea9b5fd31054de4092aacc84d0f20185c125"/>
   <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Camera2" path="packages/apps/Camera2" revision="3e0f5b07a3b1e5e5b8e64e8a7b6ff3c46a0bf6b4"/>
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Dialer" path="packages/apps/Car/Dialer" revision="ef1ea1d90690d2353a608e4481d1dda9547b5645"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Hvac" path="packages/apps/Car/Hvac" revision="e455180c31ccba4e6774d728344bfe684513e815"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/LatinIME" path="packages/apps/Car/LatinIME" revision="26b171e3477e8b040bcf2f720889e45da78b6f9f"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Launcher" path="packages/apps/Car/Launcher" revision="03083424da6f291394369a2b44b7e27bff98d096"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/LensPicker" path="packages/apps/Car/LensPicker" revision="810eea24d8027962df925effcec679167c69074e"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/LocalMediaPlayer" path="packages/apps/Car/LocalMediaPlayer" revision="b02efa1e391c3e0444d903f70f19e914c31788a3"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Media" path="packages/apps/Car/Media" revision="f1480b4f623dccfbb40e80c5eeb7d2babf3b6d88"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Messenger" path="packages/apps/Car/Messenger" revision="f1af59815ebd7da7f1a5fc8c1618364a528d8efb"/-->
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Dialer" path="packages/apps/Car/Dialer" revision="eb74e27b7306c194cce4907333448021382bb497"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Hvac" path="packages/apps/Car/Hvac" revision="44cef3e9dc933d98a2c6c44fb7347b3967184454"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/LatinIME" path="packages/apps/Car/LatinIME" revision="cf1e436f6a1f8031f69e037dfe16a1bdaa07a1f5"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Launcher" path="packages/apps/Car/Launcher" revision="a699793de0eaeacfc0787f61d274af71551b431b"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/LensPicker" path="packages/apps/Car/LensPicker" revision="6bd33daa03c7410cedc5299cefef262f66c9d965"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/LocalMediaPlayer" path="packages/apps/Car/LocalMediaPlayer" revision="7912d685bec5c4d2c78bf37d5b50b26cd6acb6dc"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Media" path="packages/apps/Car/Media" revision="86c658bec453b0dbe34920621b024babbd7c92c3"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Messenger" path="packages/apps/Car/Messenger" revision="cd0a4ee54a6c018d224de45104da401df0e7a8f7"/>
   <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Overview" path="packages/apps/Car/Overview" revision="f9ada7a6db8503ba695d3e577ece5e20d20455b2"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Radio" path="packages/apps/Car/Radio" revision="086ba372b1ed7f8a50ac5d007139de5228a53651"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Settings" path="packages/apps/Car/Settings" revision="9dfe00b993b760e8455d135900b4612c8901f697"/-->
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Radio" path="packages/apps/Car/Radio" revision="21882cad19ff33e27533e93bdaa5171a6cba388d"/>
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Settings" path="packages/apps/Car/Settings" revision="a2c79e1d5034cc203e4df153845e1e2209ae7b5f"/>
   <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/Stream" path="packages/apps/Car/Stream" revision="2f778282f7463f406a7557e2ab8ab848a8321ed3"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/SystemUpdater" path="packages/apps/Car/SystemUpdater" revision="ce751a2c323c9dade9b112f3bf903a9ff449bdcb"/-->
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/SystemUpdater" path="packages/apps/Car/SystemUpdater" revision="5b3f9bd981966dfa15f72aeff93806a0b385cb0c"/>
   <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/UserManagement" path="packages/apps/Car/UserManagement" revision="9391baedbf4ad645d7c125279a19d7a2b6b285f9"/-->
-  <!--project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/libs" path="packages/apps/Car/libs" revision="72b849bb2b722cc349d9f558340b67e23c2188c5"/-->
+  <project groups="p-fs-release,pdk-fs" name="platform/packages/apps/Car/libs" path="packages/apps/Car/libs" revision="e9db28a9036fa651f31d8b9768499901ddcc9a90"/>
   <project groups="p-fs-release,pdk-cw-fs,pdk-fs" name="platform/packages/apps/CarrierConfig" path="packages/apps/CarrierConfig" revision="4047f4343659ce3cda72b5f7931d866595d37fbb"/>
   <project groups="p-fs-release,pdk-cw-fs,pdk-fs" name="platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="3b53c0c69ceea8015bd92868c353a92606df1104"/>
   <project groups="p-fs-release,pdk-cw-fs,pdk-fs" name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="0a0acfdbe905019ba6f8c63d869ffdbac2af490f"/>
