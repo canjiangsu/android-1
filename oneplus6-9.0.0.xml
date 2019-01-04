@@ -316,15 +316,15 @@
   <project groups="p-fs-release,pdk" name="platform/external/puffin" path="external/puffin" revision="65d92b08ed190b7f4cf8171ab9ae736ad321a6a1"/>
   <!--project groups="p-fs-release,pdk,vts" name="platform/external/python/Pillow" path="external/python/Pillow" revision="d9c0fcc955e4fe0662cd0580a412a20cb328f039"/>
   <project groups="p-fs-release,pdk,vts" name="platform/external/python/appdirs" path="external/python/appdirs" revision="0d9b51147cd55a9ee45382c534bcfa4df4a2e3fa"/>
-  <project groups="p-fs-release,pdk,vts" name="platform/external/python/cachetools" path="external/python/cachetools" revision="ee4588a2a8743a550de2a7e18d306d5f6a436702"/>
+  <project groups="p-fs-release,pdk,vts" name="platform/external/python/cachetools" path="external/python/cachetools" revision="ee4588a2a8743a550de2a7e18d306d5f6a436702"/-->
   <project groups="p-fs-release,pdk" name="platform/external/python/cpython2" path="external/python/cpython2" revision="61387273bce00c8942b408fd2909021c57717cb4"/>
   <project groups="p-fs-release,pdk" name="platform/external/python/cpython3" path="external/python/cpython3" revision="af97d80132730b84aad743404e3627965c44ce06"/>
-  <project groups="p-fs-release,pdk,vts" name="platform/external/python/dill" path="external/python/dill" revision="01988c5fa063836e457bdb7134d4d300d1276e5e"/>
+  <!--project groups="p-fs-release,pdk,vts" name="platform/external/python/dill" path="external/python/dill" revision="01988c5fa063836e457bdb7134d4d300d1276e5e"/>
   <project groups="p-fs-release,pdk,vts" name="platform/external/python/enum" path="external/python/enum" revision="6706fcd5d4054a9dcbd517142f2be8c9498fcecc"/>
   <project groups="p-fs-release,pdk,vts" name="platform/external/python/enum34" path="external/python/enum34" revision="ed56821ca06c8ba80bc083069c9f5672cf834e2a"/>
-  <project groups="p-fs-release,pdk,vts" name="platform/external/python/future" path="external/python/future" revision="fa8e703fd259f8056cb817219041eb0e20c00ada"/>
+  <project groups="p-fs-release,pdk,vts" name="platform/external/python/future" path="external/python/future" revision="fa8e703fd259f8056cb817219041eb0e20c00ada"/-->
   <project groups="p-fs-release,pdk,vts" name="platform/external/python/futures" path="external/python/futures" revision="9433be9f31160918270a73995aa83207c69b8a44"/>
-  <project groups="p-fs-release,pdk,vts" name="platform/external/python/gapic-google-cloud-pubsub-v1" path="external/python/gapic-google-cloud-pubsub-v1" revision="44cde1e4892ce518b1927ab3f8f45a22f0f67a1d"/>
+  <!--project groups="p-fs-release,pdk,vts" name="platform/external/python/gapic-google-cloud-pubsub-v1" path="external/python/gapic-google-cloud-pubsub-v1" revision="44cde1e4892ce518b1927ab3f8f45a22f0f67a1d"/>
   <project groups="p-fs-release,pdk,vts" name="platform/external/python/google-api-python-client" path="external/python/google-api-python-client" revision="6e0c0af3fa414387cd2ecc22ba6cb4eca47f171e"/>
   <project groups="p-fs-release,pdk,vts" name="platform/external/python/google-auth" path="external/python/google-auth" revision="51bbd38e9129785729a71abea8ae0bae1ac9784c"/>
   <project groups="p-fs-release,pdk,vts" name="platform/external/python/google-auth-httplib2" path="external/python/google-auth-httplib2" revision="c4201f1bd596e5b17b7e461af2dd8b0d676834a6"/>
